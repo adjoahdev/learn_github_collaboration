@@ -9,5 +9,7 @@ After forking this Repository, update this README by adding your name to the lis
 - Obed Ehoneah
 - James Nzioka
 - Biniyam Ambachew
+
 -Rebekah Adjoah Mensah
-["[Names of contributors]"]
+
+-["[Names of contributors]"]
